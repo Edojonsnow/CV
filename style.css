@@ -1,0 +1,137 @@
+.top-container{
+  background-color: #EEEEEE;
+position: relative;
+  padding-top: 100px;
+
+}
+.profile{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #EEEEEE;
+}
+.skills{
+  background-color: #EEEEEE;
+  padding-top: 30px;
+
+}
+.hello{
+width: 30%;
+margin: auto;
+}
+body{
+  color: #40514E;
+  margin: 0;
+  margin-top: 0;
+  text-align: center;
+  font-family: tahoma ,sans-serif;
+}
+h1{
+color: #141E61;
+  margin-top: 0;
+font-family: 'Spartan', sans-serif;
+}
+h2{
+  color: #141E61;
+font-family: 'Spartan', sans-serif;
+margin: 0;
+}
+p{ font-family: 'Spartan', sans-serif;
+margin: 0;
+line-height: 2;
+}
+h3{
+  color: #141E61;
+  font-family: 'Spartan', sans-serif;
+}
+a{
+  color: #141E61;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-decoration: none;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+hr{
+  border: dotted #BD4B4B 7px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 5%;
+;
+
+
+}
+.contact-me{
+padding:20px;
+}
+.skills{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+text-align: left;
+
+}
+.skillpic{
+  width: 25%;
+  float: left;
+  padding-top: 20px;
+}
+.testing{
+  background-color: #EEEEEE;
+  padding-top: 30px;
+  padding-bottom: 70px;
+}
+.recreation{
+  padding-top: 70px;
+}
+.recreate{
+  width: 25%;
+
+  float: right;
+
+}
+.skill-row1{
+  padding-top: 20px;
+}
+.footer-link{
+  color: #141E61;
+}
+.bottom-container{
+  background-color: #EEEEEE;
+  padding: 20px;
+}
+.btn1{
+  margin: 50px auto;
+}
+.btn {
+padding: 6px;
+  font-size:15px;
+    font-family: tahoma ,sans-serif;
+
+  border-width:2px;
+  color:#505739;
+  border-color:#333029;
+  font-weight:bold;
+  border-top-left-radius:17px;
+  border-top-right-radius:17px;
+  border-bottom-left-radius:17px;
+  border-bottom-right-radius:17px;
+  box-shadow: 0 1px 0 0 #1c1b18;
+  text-shadow: 0 1px 0 #ffffff;
+  background:linear-gradient(#eae0c2, #ccc2a6);
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(#ccc2a6, #eae0c2);
+}
